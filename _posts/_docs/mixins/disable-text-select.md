@@ -1,7 +1,7 @@
 ---
 type: mixin
 name: disable-text-select
-caniuse: http://caniuse.com/#search=rem
+caniuse: http://caniuse.com/#search=user-select
 mozdev: https://developer.mozilla.org/en-US/docs/Web/CSS/user-select
 source: https://github.com/bcinarli/caffeine/blob/master/lib/mixins/_text.scss#L130
 params: null
