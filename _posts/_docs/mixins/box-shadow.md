@@ -3,4 +3,3 @@ type: mixin
 name: box-shadow
 params: $content...
 ---
-You can use standart CSS box shadow definition
