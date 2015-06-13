@@ -1,5 +1,5 @@
 ---
 type: mixin
 name: transform-style
-params: $content...
+params: $style
 ---
