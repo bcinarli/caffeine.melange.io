@@ -1,0 +1,21 @@
+{
+  "name": "caffeine.melange.io",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bcinarli/caffeine.melange.io",
+  "authors": [
+    "Bilal Çınarlı <bcinarli@gmail.com>"
+  ],
+  "description": "Caffeine documentation",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "caffeine": "latests",
+    "melange": "~0.4.0"
+  }
+}
